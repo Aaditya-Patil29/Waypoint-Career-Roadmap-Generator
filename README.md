@@ -3,7 +3,7 @@
 A career roadmap generator for engineering students. Chat with an AI guide, answer eight questions, and get a personalised phase-by-phase plan. Refine it, download it, or print it.
 
 ## Link
-
+https://waypoint-career-roadmap-generator.vercel.app/
 
 
 ## Features
